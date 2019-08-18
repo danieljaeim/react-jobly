@@ -1,0 +1,37 @@
+.link {
+  color: black;
+}
+.link:hover {
+   color: grey;
+   text-decoration: none;
+}
+
+.active {
+  color: orangered;
+}
+
+.logo {
+  display: inline-block;
+  height: 450px;
+  width: 700px;
+  background-image: url('../src/jobly_logo.png');
+  background-repeat: none;
+}
+
+.invitation {
+  display: inline-block;
+  height: 300px;
+  width: 700px;
+  background-image: url('https://media3.giphy.com/media/9RNGg4IQiufp6/giphy.gif');
+}
+
+.streamers {
+  display: inline-block;
+  height: 200px; 
+  width: 200px; 
+  background-image: url('https://media0.giphy.com/media/3og0IC6Hag4c6sSE4o/giphy.gif');
+  background-position: center; 
+}
+/* .App {
+  background-image: url('https://media.tenor.com/images/bcf4d183aefc4cb5a559dafc0c3c7435/tenor.gif');
+} */
